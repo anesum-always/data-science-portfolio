@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Bioinformatics Portfolio
 
 Welcome! This portfolio demonstrates my expertise in single-cell RNA-seq analysis, machine learning, and data visualization for healthcare applications.
 
